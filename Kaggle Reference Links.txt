@@ -1,0 +1,7 @@
+
+https://www.kaggle.com/ruslankl/brain-tumor-detection-v1-0-cnn-vgg-16
+
+https://www.kaggle.com/ihelon/brain-tumor-eda-with-animations-and-modeling
+
+https://www.kaggle.com/loaiabdalslam/brain-tumor-mri-classification-vgg16 
+
