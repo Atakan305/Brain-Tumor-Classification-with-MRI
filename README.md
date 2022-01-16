@@ -12,7 +12,9 @@ And I've create a VGG16 model to do these processes.
 And also transfer learning is important and efficient way to creating project in medical image analysis. 
 You can examine what transfer learning is and where it is used from these links:
 https://www.kaggle.com/carloalbertobarbano/vgg16-transfer-learning-pytorch 
+
 https://www.kaggle.com/hmendonca/mask-rcnn-and-coco-transfer-learning-lb-0-155 
+
 https://www.kaggle.com/dansbecker/transfer-learning 
 
 As you already know, AlexNet is the best model to do something about BT datas. 
