@@ -1,7 +1,12 @@
 # Brain-Tumor-Classification-with-MRI
 ![LearnOpenCV-2](https://user-images.githubusercontent.com/76012121/149661544-19f02e76-1617-4574-ba6a-e16edd18b861.png)
 
-VGG16 model-based classification project about brain tumor detection.
+VGG16 model-based classification project about brain tumor detection. First, you can check what people are doing on Kaggle using Brain Tumor MRI.
+Cause I benefited them a lot and it's quite good code parts in it. So here are the links:
+
+https://www.kaggle.com/loaiabdalslam/brain-tumor-mri-classification-vgg16 
+
+https://www.kaggle.com/ruslankl/brain-tumor-detection-v1-0-cnn-vgg-16 
 
 Me and my friend have done the pre-task given by Teknofest "AI in Healthcare" competition. 
 So it's the classification project and it's only clustered the brain tomography into 'yes' and 'no' folders. 
