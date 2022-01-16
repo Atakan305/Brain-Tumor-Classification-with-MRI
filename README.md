@@ -10,7 +10,8 @@ While I was doing that, used a CNN model to classificate the images.
 And I've create a VGG16 model to do these processes. 
 
 And also transfer learning is important and efficient way to creating project in medical image analysis. 
-You can examine what transfer learning is and where it is used from these links:
+You can examine what transfer learning is and where it is used from these links: 
+
 https://www.kaggle.com/carloalbertobarbano/vgg16-transfer-learning-pytorch 
 
 https://www.kaggle.com/hmendonca/mask-rcnn-and-coco-transfer-learning-lb-0-155 
