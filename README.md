@@ -1,4 +1,6 @@
 # Brain-Tumor-Classification-with-MRI
+![LearnOpenCV-1](https://user-images.githubusercontent.com/76012121/149661076-02c5ba44-f8d5-4d78-b3da-64640d9caa9f.png)
+
 VGG16 model-based classification project about brain tumor detection.
 
 Me and my friend have done the pre-task given by Teknofest "AI in Healthcare" competition. 
