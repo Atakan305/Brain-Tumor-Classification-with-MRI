@@ -22,4 +22,4 @@ As you already know, AlexNet is the best model to do something about BT datas.
 
 ![LearnOpenCV-1](https://user-images.githubusercontent.com/76012121/149661524-5937848e-2652-448f-9cd7-b962e2fd3db4.png)
 
-In the following days, I will perform classification tasks with other models starting with AlexNet and upload them to my repo. 
+In the following days, I'll do classification tasks with other models starting with AlexNet and upload them to my repo. 
